@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "username": "mrida",
+      "score": 1500,
+      "levelReached": 1,
+      "date": "2026-04-01"
+    },
+    {
+      "username": "arjun",
+      "score": 1200,
+      "levelReached": 1,
+      "date": "2026-03-28"
+    },
+    {
+      "username": "sana",
+      "score": 900,
+      "levelReached": 1,
+      "date": "2026-03-20"
+    }
+  ]
+}

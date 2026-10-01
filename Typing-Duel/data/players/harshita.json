@@ -1,0 +1,37 @@
+{
+  "username": "harshita",
+  "password": "hershey",
+  "accountType": "PLAYER",
+  "securityQuestions": [
+    "What was your childhood nickname?"
+  ],
+  "securityAnswers": [
+    "harshu"
+  ],
+  "guardianCode": null,
+  "stats": {
+    "averageWPM": 20.19011235955056,
+    "peakWPM": 26.560000000000002,
+    "accuracyPercent": 55.70469798657718,
+    "totalErrorCount": 19,
+    "totalTimePlayed": 196,
+    "totalWordsTyped": 50,
+    "highestLevelReached": 0,
+    "overallHighScore": 1500
+  },
+  "highestLevelUnlocked": 0,
+  "scores": [
+    {
+      "difficulty": "MEDIUM",
+      "value": 250
+    },
+    {
+      "difficulty": "EASY",
+      "value": 1500
+    },
+    {
+      "difficulty": "HARD",
+      "value": 1500
+    }
+  ]
+}

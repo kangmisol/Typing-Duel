@@ -1,0 +1,29 @@
+{
+  "username": "veda",
+  "password": "veda",
+  "accountType": "PLAYER",
+  "securityQuestions": [
+    "What city were you born in?"
+  ],
+  "securityAnswers": [
+    "dubai"
+  ],
+  "guardianCode": null,
+  "stats": {
+    "averageWPM": 20.25,
+    "peakWPM": 20.25,
+    "accuracyPercent": 75.0,
+    "totalErrorCount": 6,
+    "totalTimePlayed": 32,
+    "totalWordsTyped": 10,
+    "highestLevelReached": 1,
+    "overallHighScore": 1250
+  },
+  "highestLevelUnlocked": 1,
+  "scores": [
+    {
+      "difficulty": "EASY",
+      "value": 1250
+    }
+  ]
+}

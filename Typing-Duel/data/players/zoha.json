@@ -1,0 +1,37 @@
+{
+  "username": "zoha",
+  "password": "zoha",
+  "accountType": "PLAYER",
+  "securityQuestions": [
+    "What was the name of your first pet?"
+  ],
+  "securityAnswers": [
+    "meow"
+  ],
+  "guardianCode": null,
+  "stats": {
+    "averageWPM": 17.58028418927811,
+    "peakWPM": 36.41379310344828,
+    "accuracyPercent": 90.74074074074075,
+    "totalErrorCount": 32,
+    "totalTimePlayed": 633,
+    "totalWordsTyped": 139,
+    "highestLevelReached": 3,
+    "overallHighScore": 1450
+  },
+  "highestLevelUnlocked": 2,
+  "scores": [
+    {
+      "difficulty": "EASY",
+      "value": 1400
+    },
+    {
+      "difficulty": "MEDIUM",
+      "value": 1300
+    },
+    {
+      "difficulty": "HARD",
+      "value": 1450
+    }
+  ]
+}

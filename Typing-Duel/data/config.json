@@ -1,0 +1,10 @@
+{
+  "defaultLives": 3,
+  "parentPin": "",
+  "defaultVolume": 0.8,
+  "dataDirectory": "./data",
+  "minJavaVersion": "23",
+  "maxProjectSizeMB": 500,
+  "targetFrameTimeMs": 16,
+  "minimumAgeRating": 8
+}

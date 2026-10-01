@@ -1,0 +1,210 @@
+Folder PATH listing for volume OS
+Volume serial number is 983A-7412
+C:\USERS\MRIDA HINGMIRE\GROUP49\TYPING-DUEL-TEMPLATE
+|   .DS_Store
+|   Typing-Duel-Template.iml
+|   
++---.idea
+|       .gitignore
+|       misc.xml
+|       modules.xml
+|       vcs.xml
+|       
++---.vscode
+|       settings.json
+|       
++---data
+|   |   .gitkeep
+|   |   config.json
+|   |   highscores.json
+|   |   highscores_default.json
+|   |   words.csv
+|   |   words.json
+|   |   
+|   \---legacy
+|           leaderboard.csv
+|           leaderboard_template.csv
+|           
++---legacy
+|       AuthService.java
+|       GuardianService.java
+|       ProgressionService.java
+|       Score.java
+|       users.csv
+|       users_nested1.csv
+|       users_nested2.csv
+|       
++---out
+|   |   .DS_Store
+|   |   
+|   +---com
+|   |   |   .DS_Store
+|   |   |   
+|   |   \---template
+|   |       +---app
+|   |       |       App.class
+|   |       |       
+|   |       +---model
+|   |       |       Score.class
+|   |       |       Statistics.class
+|   |       |       User.class
+|   |       |       
+|   |       +---persistence
+|   |       |       CsvDatabaseHandler.class
+|   |       |       UserRepository.class
+|   |       |       
+|   |       +---service
+|   |       |       AuthService.class
+|   |       |       GuardianService.class
+|   |       |       ProgressionService.class
+|   |       |       
+|   |       \---ui
+|   |           |   MainFrame.class
+|   |           |   ScreenManager.class
+|   |           |   
+|   |           \---screens
+|   |                   BaseScreenPanel.class
+|   |                   ExitConfirmPanel.class
+|   |                   GuardianControlPanel.class
+|   |                   GuardianLoginPanel.class
+|   |                   HighScorePanel.class
+|   |                   LevelSelectPanel.class
+|   |                   LoginPanel.class
+|   |                   MainMenuPanel.class
+|   |                   PlayerMenuPanel.class
+|   |                   RegisterPanel.class
+|   |                   SettingsPanel.class
+|   |                   TutorialPanel.class
+|   |                   
+|   \---production
+|       \---Typing-Duel-Template
+|           +---com
+|           |   \---template
+|           |       +---app
+|           |       |       App.class
+|           |       |       
+|           |       +---model
+|           |       |       Score.class
+|           |       |       Statistics.class
+|           |       |       User.class
+|           |       |       
+|           |       +---persistence
+|           |       |       CsvDatabaseHandler.class
+|           |       |       UserRepository.class
+|           |       |       
+|           |       +---service
+|           |       |       AuthService.class
+|           |       |       GuardianService.class
+|           |       |       ProgressionService.class
+|           |       |       
+|           |       \---ui
+|           |           |   MainFrame.class
+|           |           |   ScreenManager.class
+|           |           |   
+|           |           \---screens
+|           |                   BaseScreenPanel.class
+|           |                   ExitConfirmPanel.class
+|           |                   GuardianControlPanel.class
+|           |                   GuardianLoginPanel.class
+|           |                   HighScorePanel.class
+|           |                   LevelSelectPanel.class
+|           |                   LoginPanel.class
+|           |                   MainMenuPanel$1.class
+|           |                   MainMenuPanel.class
+|           |                   PlayerMenuPanel.class
+|           |                   RegisterPanel.class
+|           |                   SettingsPanel.class
+|           |                   StandardGameplayPanel$1.class
+|           |                   StandardGameplayPanel$2.class
+|           |                   StandardGameplayPanel$RightToLeftUI.class
+|           |                   StandardGameplayPanel$VerticalTimerUI.class
+|           |                   StandardGameplayPanel.class
+|           |                   TutorialPanel.class
+|           |                   
+|           \---resources
+|                   TypingDuelLogo.png
+|                   
++---src
+|   |   .DS_Store
+|   |   Main.java
+|   |   
+|   +---com
+|   |   |   .DS_Store
+|   |   |   
+|   |   \---template
+|   |       +---app
+|   |       +---model
+|   |       +---persistence
+|   |       +---service
+|   |       \---ui
+|   |           \---screens
+|   |                   LevelSelectPanel.java
+|   |                   MainMenuPanel.java
+|   |                   StandardGameplayPanel.java
+|   |                   
+|   +---resources
+|   |       charATKchargeup.png
+|   |       charATKsuccessFIX.png
+|   |       charDFNDchargeup.png
+|   |       charDFNDfail.png
+|   |       typingDuelBackground.jpg
+|   |       TypingDuelLogo.png
+|   |       
+|   \---typingduel
+|       +---backend
+|       |       AuthService.java
+|       |       EndlessMode.java
+|       |       GuardianService.java
+|       |       PhaseManager.java
+|       |       ProgressionService.java
+|       |       StatService.java
+|       |       TypingEngine.java
+|       |       WordBank.java
+|       |       
+|       +---gui
+|       |       BaseScreenPanel.java
+|       |       ExitConfirmPanel.java
+|       |       GuardianControlPanel.java
+|       |       GuardianLoginPanel.java
+|       |       HighScorePanel.java
+|       |       LevelSelectPanel.java
+|       |       LoginPanel.java
+|       |       LogoutConfirmPanel.java
+|       |       MainFrame.java
+|       |       MainMenuPanel.java
+|       |       PlayerMenuPanel.java
+|       |       RegisterPanel.java
+|       |       ScreenManager.java
+|       |       SettingsPanel.java
+|       |       StandardGameplayPanel.java
+|       |       TutorialPanel.java
+|       |       UiPreferences.java
+|       |       
+|       +---model
+|       |       AccountType.java
+|       |       AppConfig.java
+|       |       Difficulty.java
+|       |       HighScoreEntry.java
+|       |       HighScoreTable.java
+|       |       Player.java
+|       |       PlayerStats.java
+|       |       Score.java
+|       |       Statistics.java
+|       |       User.java
+|       |       UserRecord.java
+|       |       
+|       +---storage
+|       |       CsvDatabaseHandler.java
+|       |       FileDataStore.java
+|       |       FileIOHandler.java
+|       |       UserRepository.java
+|       |       
+|       \---utils
+|               NFRChecker.java
+|               
+\---test
+    \---typingduel
+        \---backend
+                EndlessModeTest.java
+                GuardianServiceTest.java
+                

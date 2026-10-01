@@ -1,0 +1,4 @@
+username,password,guardianLink,avgWpm,peakWpm,accuracy,errorCount,timePlayed,wordsTyped,levelsReached,totalScore,scores
+Suntae,asdf,,0.0,0.0,0.0,0,0,0,0,0,
+Zach,test,,0.0,0.0,0.0,0,0,0,0,0,
+ZachGuardian,abc,123,0.0,0.0,0.0,0,0,0,0,0,

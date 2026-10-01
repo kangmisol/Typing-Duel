@@ -1,0 +1,3 @@
+username,password,guardianLink,avgWpm,peakWpm,accuracy,errorCount,timePlayed,wordsTyped,levelsReached,totalScore,scores
+demo,demo123,parent-code,45.0,68.0,96.5,3,720,540,4,1200,easy:300;medium:450;hard:450
+suntae,asdf,,0.0,0.0,0.0,0,0,0,0,0,

@@ -1,0 +1,37 @@
+{
+  "username": "zainab",
+  "password": "food",
+  "accountType": "PLAYER",
+  "securityQuestions": [
+    "What city were you born in?"
+  ],
+  "securityAnswers": [
+    "Dubai"
+  ],
+  "guardianCode": null,
+  "stats": {
+    "averageWPM": 38.46478494623656,
+    "peakWPM": 68.0,
+    "accuracyPercent": 95.78313253012048,
+    "totalErrorCount": 6,
+    "totalTimePlayed": 178,
+    "totalWordsTyped": 109,
+    "highestLevelReached": 0,
+    "overallHighScore": 1500
+  },
+  "highestLevelUnlocked": 0,
+  "scores": [
+    {
+      "difficulty": "EASY",
+      "value": 1500
+    },
+    {
+      "difficulty": "MEDIUM",
+      "value": 1300
+    },
+    {
+      "difficulty": "HARD",
+      "value": 1350
+    }
+  ]
+}

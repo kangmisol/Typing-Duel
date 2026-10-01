@@ -1,0 +1,26 @@
+{
+  "username": "Zach",
+  "password": "test",
+  "accountType": "PLAYER",
+  "securityQuestions": [
+    "Favorite Color?",
+    "Birth City?"
+  ],
+  "securityAnswers": [
+    "Blue",
+    "London"
+  ],
+  "guardianCode": null,
+  "stats": {
+    "averageWPM": 0.0,
+    "peakWPM": 0.0,
+    "accuracyPercent": 0.0,
+    "totalErrorCount": 0,
+    "totalTimePlayed": 0,
+    "totalWordsTyped": 0,
+    "highestLevelReached": 0,
+    "overallHighScore": 0
+  },
+  "highestLevelUnlocked": 0,
+  "scores": []
+}

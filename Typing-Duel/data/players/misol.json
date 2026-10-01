@@ -1,0 +1,29 @@
+{
+  "username": "misol",
+  "password": "123",
+  "accountType": "PLAYER",
+  "securityQuestions": [
+    "What city were you born in?"
+  ],
+  "securityAnswers": [
+    "Seoul"
+  ],
+  "guardianCode": null,
+  "stats": {
+    "averageWPM": 8.232558139534884,
+    "peakWPM": 8.232558139534884,
+    "accuracyPercent": 76.62337662337663,
+    "totalErrorCount": 5,
+    "totalTimePlayed": 86,
+    "totalWordsTyped": 11,
+    "highestLevelReached": 1,
+    "overallHighScore": 1350
+  },
+  "highestLevelUnlocked": 1,
+  "scores": [
+    {
+      "difficulty": "EASY",
+      "value": 1350
+    }
+  ]
+}

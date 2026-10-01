@@ -1,0 +1,24 @@
+{
+  "username": "atika",
+  "password": "atika",
+  "accountType": "PARENT_TEACHER",
+  "securityQuestions": [
+    "What city were you born in?"
+  ],
+  "securityAnswers": [
+    "hamilton"
+  ],
+  "guardianCode": "atika",
+  "stats": {
+    "averageWPM": 14.053178745614783,
+    "peakWPM": 22.838709677419352,
+    "accuracyPercent": 61.016949152542374,
+    "totalErrorCount": 17,
+    "totalTimePlayed": 141,
+    "totalWordsTyped": 34,
+    "highestLevelReached": 0,
+    "overallHighScore": 0
+  },
+  "highestLevelUnlocked": 0,
+  "scores": []
+}

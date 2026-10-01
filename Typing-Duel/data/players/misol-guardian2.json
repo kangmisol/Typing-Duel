@@ -1,0 +1,24 @@
+{
+  "username": "misol-guardian2",
+  "password": "123",
+  "accountType": "PARENT_TEACHER",
+  "securityQuestions": [
+    "What city were you born in?"
+  ],
+  "securityAnswers": [
+    "Seoul"
+  ],
+  "guardianCode": "123",
+  "stats": {
+    "averageWPM": 0.0,
+    "peakWPM": 0.0,
+    "accuracyPercent": 0.0,
+    "totalErrorCount": 0,
+    "totalTimePlayed": 0,
+    "totalWordsTyped": 0,
+    "highestLevelReached": 0,
+    "overallHighScore": 0
+  },
+  "highestLevelUnlocked": 0,
+  "scores": []
+}

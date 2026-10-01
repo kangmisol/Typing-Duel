@@ -1,0 +1,43 @@
+{
+  "username": "mrida",
+  "password": "1234",
+  "accountType": "PLAYER",
+  "securityQuestions": [
+    "Favorite Color?",
+    "Birth City?"
+  ],
+  "securityAnswers": [
+    "Blue",
+    "London"
+  ],
+  "guardianCode": null,
+  "stats": {
+    "averageWPM": 16.367948716403184,
+    "peakWPM": 68.72727272727273,
+    "accuracyPercent": 74.13793103448276,
+    "totalErrorCount": 96,
+    "totalTimePlayed": 882,
+    "totalWordsTyped": 244,
+    "highestLevelReached": 3,
+    "overallHighScore": 1700
+  },
+  "highestLevelUnlocked": 2,
+  "scores": [
+    {
+      "difficulty": "EASY",
+      "value": 1700
+    },
+    {
+      "difficulty": "MEDIUM",
+      "value": 1550
+    },
+    {
+      "difficulty": "HARD",
+      "value": 1000
+    },
+    {
+      "difficulty": "ENDLESS",
+      "value": 1320
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"backend"},{"l":"backend.logic"},{"l":"backend.model"},{"l":"backend.storage"},{"l":"backend.utils"},{"l":"frontend"},{"l":"typingduel.model"}];updateSearchResults();
